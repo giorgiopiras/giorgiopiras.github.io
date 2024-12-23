@@ -12,7 +12,7 @@ title                    : "Giorgio Piras"
 title_separator          : "-"
 name                     : &name "Giorgio Piras"
 description              : &description "PhD in Artificial Intelligence @ University of Cagliari"
-url                      : https://www.giorgiopiras.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://www.giorgiopiras.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "giorgiopiras/giorgiopiras.github.io"
 

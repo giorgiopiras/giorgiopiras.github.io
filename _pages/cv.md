@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: "CV"
+header: 
+  image: /background.png
 permalink: /cv/
 author_profile: true
 redirect_from:

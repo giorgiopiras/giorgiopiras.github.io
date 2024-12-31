@@ -1,7 +1,7 @@
 ---
 title: "On the Robustness of Adversarial Training Against Uncertainty Attacks"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-robustness-adversarial-training
 excerpt: 'This paper examines the robustness of adversarial training methods against uncertainty-based attacks.'
 date: 2024-01-01

@@ -1,7 +1,7 @@
 ---
 title: "Improving Fast Minimum-Norm Attacks with Hyperparameter Optimization"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2023-improving-fmn-attacks-hyperparameter-optimization
 excerpt: 'This paper presents enhancements to fast minimum-norm adversarial attacks through hyperparameter optimization techniques.'
 date: 2023-01-01

@@ -1,7 +1,7 @@
 ---
 title: "Adversarial Attacks Against Uncertainty Quantification"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2023-adversarial-attacks-uncertainty-quantification
 excerpt: 'This study explores adversarial attacks targeting uncertainty quantification methods in machine learning models.'
 date: 2023-01-01

@@ -1,7 +1,7 @@
 ---
 title: "Samples on Thin Ice: Re-Evaluating Adversarial Pruning of Neural Networks"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2023-samples-on-thin-ice
 excerpt: 'This research re-evaluates the effectiveness of adversarial pruning techniques in neural networks.'
 date: 2023-01-01

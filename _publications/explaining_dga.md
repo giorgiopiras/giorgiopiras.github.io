@@ -1,7 +1,7 @@
 ---
 title: "Explaining Machine Learning DGA Detectors from DNS Traffic Data"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2022-explaining-ml-dga-detectors
 excerpt: 'This paper discusses methods to explain machine learning-based Domain Generation Algorithm (DGA) detectors using DNS traffic data.'
 date: 2022-01-01

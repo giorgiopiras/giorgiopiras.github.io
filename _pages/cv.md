@@ -14,12 +14,12 @@ redirect_from:
 Education
 ======
 * **Postdoctoral Researcher**: University of Cagliari, 1st November 2024 - ongoing
-* **Ph.D** in Artificial Intelligence, University of Rome La Sapienza / University of Cagliari, 24th January 2025  
+* **Ph.D** in Artificial Intelligence, University of Rome La Sapienza / University of Cagliari, 24th January 2025 (with honors).  
   * Visiting Student: Karlsruhe Institute for Technology (KIT), Karlsruhe, Germany. Supervisor: Prof. Christian Wressnegger.
   * Thesis: _Adversarial Pruning: Improving Evaluations and Methods_. Supervisor: Prof. Battista Biggio 
-* **M.S.** in Artificial Intelligence & Cybersecurity, University of Cagliari, 27th July 2021, (110/110 cum laude)
+* **M.S.** in Artificial Intelligence & Cybersecurity, University of Cagliari, 27th July 2021 (with honors).
   * Thesis: _On Explainability of Machine Learning DGA Detectors from DNS Traffic Data_ ([see related paper](https://iris.unica.it/bitstream/11584/345551/2/ITASEC22_CameraReady_CeurArt_GiorgioPiras.pdf)). Supervisor: Prof. Battista Biggio
-* **B.S.** in Electrical, Electronic and Computer Engineering, University of Cagliari, 25th July 2019, (110/110)
+* **B.S.** in Electrical, Electronic and Computer Engineering, University of Cagliari, 25th July 2019 (full marks).
   * [Thesis](https://corsi.unica.it/ingegneriaelettricaeelettronica/files/2020/04/Tesi_Piras_Giorgio.pdf): _Utilizzabilità di Tecniche Affidabilistiche per la Manutenzione Predittiva di Stazioni Radio Base_. Supervisor: Prof. Elio Usai 
 
 Work experience
@@ -55,11 +55,12 @@ Publications
 Other Activities
 ====== 
 ## Conference and Workshop Chair 
-* 02/2025: Workshop co-chair at [ITASEC25](https://itasec.it/), for the Trustworthy AI for CyberSecurity Workshop ([TAIC25](https://taicworkshop.github.io/))
+* 02/2025: Workshop chair at [ITASEC25](https://itasec.it/), for the Trustworthy AI for CyberSecurity Workshop ([TAIC25](https://taicworkshop.github.io/))
 
 ## Reviewer 
 ### Journals 
 * Pattern Recognition Journal 
+* Neurocomputing
 
 ### Conferences and Workshops 
 * 07/2024: PC at the [17th ACM Workshop on Artificial Intelligence and Security (AISec 2024), co-located with ACM CCS](https://aisec.cc/) ![Static Badge](https://img.shields.io/badge/Top%20Reviewers-reviewers)

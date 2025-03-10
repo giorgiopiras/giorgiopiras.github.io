@@ -16,7 +16,7 @@ Education
 * **Postdoctoral Researcher**: University of Cagliari, 1st November 2024 - ongoing
 * **Ph.D** in Artificial Intelligence, University of Rome La Sapienza / University of Cagliari, 24th January 2025 (with honors).  
   * Visiting Student: Karlsruhe Institute for Technology (KIT), Karlsruhe, Germany. Supervisor: Prof. Christian Wressnegger.
-  * Thesis: _Adversarial Pruning: Improving Evaluations and Methods_. Supervisor: Prof. Battista Biggio 
+  * [Thesis](https://tesidottorato.depositolegale.it/bitstream/20.500.14242/193911/1/Tesi_dottorato_Piras.pdf): _Adversarial Pruning: Improving Evaluations and Methods_. Supervisor: Prof. Battista Biggio 
 * **M.S.** in Artificial Intelligence & Cybersecurity, University of Cagliari, 27th July 2021 (with honors).
   * Thesis: _On Explainability of Machine Learning DGA Detectors from DNS Traffic Data_ ([see related paper](https://iris.unica.it/bitstream/11584/345551/2/ITASEC22_CameraReady_CeurArt_GiorgioPiras.pdf)). Supervisor: Prof. Battista Biggio
 * **B.S.** in Electrical, Electronic and Computer Engineering, University of Cagliari, 25th July 2019 (full marks).
@@ -24,22 +24,25 @@ Education
 
 Work experience
 ======
+* 03/2023 - 06/2023: Newspaper 
+  * L'Unione Sarda, Cagliari, Italy 
+  * Magazine articles on AI security for local newspaper. 
+
 * 06/2023 - 07/2023: Consultant
   * Smeralda Computing & Ass. S.r.l., Sassari, Italy 
   * Project Report: the state of the Italian cyberSecurity infrastructure.
 
-* 06/2024 - 07/2024: Consultant
-  * Smeralda Computing & Ass. S.r.l., Sassari, Italy 
-  * Project Report: "Kentos" of the Autonomous Region of Sardinia
-
-* 03/2023 - 06/2023: Newspaper 
-  * L'Unione Sarda, Cagliari, Italy 
-  * Magazine articles on AI security for local newspaper
-
 * 03/2024 - 06/2024: Newspaper 
   * L'Unione Sarda, Cagliari, Italy 
-  * Magazine articles on AI ethics for local newspaper
+  * Magazine articles on AI ethics for local newspaper.
+  
+* 06/2024 - 07/2024: Consultant
+  * Smeralda Computing & Ass. S.r.l., Sassari, Italy 
+  * Project Report: "Kentos" of the Autonomous Region of Sardinia.
 
+* 12/2024 - 02/2025: AI Security Consultant 
+  * Consulthink, Rome, Italy 
+  * Project Report on Secure AI strategies.
   
 Projects
 ======

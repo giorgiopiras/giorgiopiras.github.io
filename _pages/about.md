@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the [sAIfer lab](https://www.saiferlab.ai/), in the Department of Electrical and Electronic Engineering from the University of Cagliari (UNICA), Italy. My research, from a broad perspective, focuses on Adversarial Machine Learning. More in detail, I have specialized on Adversarial Pruning (AP) methods, which aim to reduce the size of a model while preserving/inducing robustness against adversarial attacks.
+I am a Postdoctoral Researcher at the [sAIfer lab](https://www.saiferlab.ai/), in the Department of Electrical and Electronic Engineering from the University of Cagliari (UNICA), Italy. My research, from a broad perspective, focuses on Adversarial Machine Learning. More recently, I have specialized on Adversarial Pruning (AP) methods, which aim to reduce the size of a model while preserving/inducing robustness against adversarial attacks, and Large Language Models security.
 
 ### Short Bio 
 Giorgio Piras is a Postdoctoral Researcher from the University of Cagliari (UNICA), Italy, where he focuses on AI security. 

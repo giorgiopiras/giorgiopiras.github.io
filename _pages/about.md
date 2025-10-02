@@ -18,8 +18,8 @@ He then obtained, in July 2021, his MSc (with honors) in _Computer Engineering; 
 Finally, he received is PhD (with honors) in the context of the National PhD-AI program, run by La Sapienza University of Rome, Italy, defending the thesis titled "Adversarial Pruning: Improving Evaluations and Methods", supervised by Prof.Battista Biggio. 
 
 During his PhD, he was a visiting student at the Karlsruhe Institute for Technology, Germany, supervised by prof. Christian Wressnegger.
-He serves constantly as a reviewer for Pattern Recognition Journal and Neurocomputing, and has served at AISEC, ESANN, S+SSPR and ITASEC conferences. 
-He is now involved, with the University of Cagliari, in the EU HORIZON Project "_Sec4Ai4Sec_". 
+He serves as a reviewer for ICLR, AAAI, USENIX, and ACM CCS conferences, and Pattern Recognition, Neurocomputing, Machine Learning, and IEEE TIFS Journals, besides other venues. 
+He is now involved, with the University of Cagliari, in the EU HORIZON Projects "_Sec4Ai4Sec_" and "_CoEvolution_". 
 
 ---
 
@@ -36,8 +36,9 @@ Education
 
 Projects
 ======
-* Participation, with the University of Cagliari, in the EU project ``Security for AI and AI for Security’’ (Sec4AI4Sec), Grant Agreement no.: 101120393, funded by the European Union in the programme HORIZON-CL3-2022-CS-01
+* Participation, with the University of Cagliari, in the EU project ``Security for AI and AI for Security’’ (Sec4AI4Sec), Grant Agreement no.: 101120393, funded by the European Union in the programme HORIZON.
 
+* Participation, with the University of Cagliari, in the EU project ``A COMPREHENSIVE TRUSTWORTHY FRAMEWORK FOR CONNECTED MACHINE LEARNING AND SECURE INTERCONNECTED AI SOLUTIONS’’ (CoEvolution), Grant Agreement no.: 101168560, funded by the European Union in the programme HORIZON.
 
 Work experience
 ======
@@ -65,7 +66,7 @@ Work experience
 
 ### Versione Italiana 
 
-Sono un Postdoctoral Researcher presso il [sAIfer lab](https://www.saiferlab.ai/), nel Dipartimento di Ingegneria Elettrica ed Elettronica dell'Università di Cagliari (UNICA). La mia ricerca, da una prospettiva generale, si concentra sull'Adversarial Machine Learning. Più nel dettaglio, mi sono specializzato nei metodi di **Adversarial Pruning (AP)**, che mirano a ridurre le dimensioni di un modello di intelligenza artificiale preservandone, o inducendone, la robustezza contro attacchi di tipo adversarial.
+Sono un Postdoctoral Researcher presso il [sAIfer lab](https://www.saiferlab.ai/), nel Dipartimento di Ingegneria Elettrica ed Elettronica dell'Università di Cagliari (UNICA). La mia ricerca, da una prospettiva generale, si concentra sull'Adversarial Machine Learning. Di recente, mi sono specializzato nei metodi di **Adversarial Pruning (AP)**, che mirano a ridurre le dimensioni di un modello di intelligenza artificiale preservandone, o inducendone, la robustezza contro attacchi di tipo adversarial, e sulla sicurezza dei Large Language Models.
 
 ### Breve Biografia  
 Giorgio Piras è un Postdoctoral Researcher presso l'Università di Cagliari (UNICA). 

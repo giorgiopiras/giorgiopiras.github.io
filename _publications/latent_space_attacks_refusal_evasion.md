@@ -10,5 +10,7 @@ teaser: '/images/publications/latent-space-attacks-figure2.png'
 venue: 'arXiv 2026'
 authors: 'Giorgio Piras, Raffaele Mura, Fabio Brau, Maura Pintor, Luca Oneto, Fabio Roli, Battista Biggio'
 paperurl: 'https://arxiv.org/pdf/2605.21706'
+projecturl: 'https://latentevasion.github.io/'
+codeurl: 'https://github.com/pralab/latent-evasion'
 citation: 'Piras, G., Mura, R., Brau, F., Pintor, M., Oneto, L., Roli, F., & Biggio, B. (2026). "Latent-space Attacks for Refusal Evasion in Language Models." <i>arXiv preprint arXiv:2605.21706</i>.'
 ---

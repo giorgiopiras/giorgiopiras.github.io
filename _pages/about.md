@@ -97,6 +97,8 @@ redirect_from:
             <div class="publication-meta">
               {% if pub.venue %}<span class="publication-venue">{{ pub.venue }}</span>{% endif %}
               {% if pub.paperurl %}<span class="meta-separator">·</span><a href="{{ pub.paperurl }}" class="publication-link" target="_blank" rel="noopener">Paper</a>{% endif %}
+              {% if pub.projecturl %}<span class="meta-separator">·</span><a href="{{ pub.projecturl }}" class="publication-link" target="_blank" rel="noopener">Project Page</a>{% endif %}
+              {% if pub.codeurl %}<span class="meta-separator">·</span><a href="{{ pub.codeurl }}" class="publication-link" target="_blank" rel="noopener">Code</a>{% endif %}
             </div>
           </div>
         </article>
